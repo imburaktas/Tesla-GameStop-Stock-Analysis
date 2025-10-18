@@ -113,10 +113,9 @@ This is a course assignment project. Feel free to fork and modify for your own l
 
 ## 📧 Contact
 
-**Your Name**  
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**Burak Aktas**  
+- GitHub: https://github.com/imburaktas
+- LinkedIn: www.linkedin.com/in/burak-aktaş-63359326b
 
 ## 📜 License
 
@@ -124,4 +123,4 @@ This project is for educational purposes as part of the IBM Data Science certifi
 
 ---
 
-⭐ If you found this project helpful, please consider giving it a star!
+
